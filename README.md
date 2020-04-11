@@ -1,5 +1,7 @@
 # swift_alamofire-promisekit-reactiveCocoa-Example
 
+https://www.notion.so/Swift-Pattern-SkeletonView-PromiseKit-ReactiveCocoa-1c0839f92aeb4288a58334d6575afd86
+
 # 🔷 1차 버전
 
 # Dependency
